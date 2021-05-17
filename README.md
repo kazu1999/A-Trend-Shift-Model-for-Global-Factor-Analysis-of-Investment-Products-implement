@@ -1,0 +1,1 @@
+# A-Trend-Shift-Model-for-Global-Factor-Analysis-of-Investment-Products-implement
